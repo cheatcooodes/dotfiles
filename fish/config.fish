@@ -32,5 +32,4 @@ alias coding='cd ~/Coding/'
 alias nvconf='cd ~/.config/nvim/'
 alias fishconf='nvim ~/.config/fish/config.fish'
 
-alias myserver='ssh zack@cn-gz-bgp-1.natfrp.cloud -p 22000' 
 
